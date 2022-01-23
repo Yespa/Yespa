@@ -19,5 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yespa&show_icons=true&locale=en&layout=compact" alt="yespa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yespa&show_icons=true&locale=en&theme=dark" alt="yespa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yespa&show_icons=true&locale=en&theme=merko" alt="yespa" /></p>
 
