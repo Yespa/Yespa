@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yesid</h1>
-<h3 align="center">avermaria purisima</h3>
+<h3 align="center">I am a mechatronics engineer with a great interest in software development especially in the backend, I like to be updated about new technologies that are emerging.</h3>
 
-- 🔭 I’m currently working on **Inven**
+- 🔭 I’m currently working on [Inventario-Ventas](https://github.com/Yespa/Inventario-Ventas)
 
-- 🌱 I’m currently learning **Frame**
+- 🌱 I’m currently learning **Koa, Sequelize y Docker**
 
 - 📫 How to reach me **yespa2617@gmail.com**
 
@@ -19,6 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yespa&show_icons=true&locale=en&layout=compact" alt="yespa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yespa&show_icons=true&locale=en" alt="yespa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yespa&show_icons=true&locale=en&theme=dark" alt="yespa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yespa&" alt="yespa" /></p>
