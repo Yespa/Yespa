@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yesid</h1>
-<h3 align="center">I am a mechatronics engineer with a great interest in software development especially in the backend, I like to be updated about new technologies that are emerging.</h3>
+<h1 align="left">Hi 👋, I'm Yesid</h1>
+<h3 align="left">I am a mechatronics engineer with a great interest in software development especially in the backend, I like to be updated about new technologies that are emerging.</h3>
 
 - 🔭 I’m currently working on [Inventario-Ventas](https://github.com/Yespa/Inventario-Ventas)
 
@@ -19,5 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yespa&show_icons=true&locale=en&layout=compact&theme=merko" alt="yespa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yespa&show_icons=true&locale=en&theme=merko" alt="yespa" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yespa&show_icons=true&locale=en&theme=merko" alt="yespa" /></p>
 
