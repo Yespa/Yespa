@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Inventario-Ventas](https://github.com/Yespa/Inventario-Ventas)
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **yespa2617@gmail.com**
 
